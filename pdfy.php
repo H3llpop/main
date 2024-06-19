@@ -1,3 +1,5 @@
+#!/usr/bin/php
+
 <!DOCTYPE html>
 <html>
 <body>
